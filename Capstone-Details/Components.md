@@ -1,0 +1,12 @@
+- DHT11 Sensor
+- MLX90614 Infrared Temperature Sensor
+- SG90 9G Servo Motor
+- 12V Brushless DC Fan
+- 3-LEDS
+- Switch
+- IRFZ44N MOSFET
+- 330µF Capacitor
+- 3-220 Ohm Resistor
+- 12v DC Supply
+- OLED Display 128x64 SSD1306
+- Buzzer
